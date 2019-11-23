@@ -1,4 +1,4 @@
-# Nodejs API
+# Express API
 
 A full-featured API MVC built on Expressjs/MongoDB
 
