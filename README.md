@@ -32,9 +32,9 @@ Server will start at port 3000 by default.
 
  you can change the port later from app configurations.
 
-Browse `http://localhost:3000` and have fun.
+Browse `http://localhost:3000`.
 
-Browse Docs `http://localhost:3000/docs` and have fun.
+Browse Docs `http://localhost:3000/docs`.
 
 ## Author
 [Basem Khirat](http://basemkhirat.com) - [basemkhirat@gmail.com](mailto:basemkhirat@gmail.com) - [@basemkhirat](https://twitter.com/basemkhirat)  
