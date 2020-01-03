@@ -34,6 +34,8 @@ Server will start at port 3000 by default.
 
 Browse `http://localhost:3000`.
 
+## Documentation (Swagger)
+
 Browse Docs `http://localhost:3000/docs`.
 
 ## Author
